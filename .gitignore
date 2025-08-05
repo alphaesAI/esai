@@ -1,2 +1,7 @@
 venv/
-__pycahe__/
+
+__pycache__/
+*.py[cod]
+
+dist/
+esai.egg-info/
